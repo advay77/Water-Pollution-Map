@@ -32,9 +32,6 @@ https://phenomenal-babka-30e59f.netlify.app/
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 
-![WhatsApp Image 2025-01-21 at 11 41 34_4e07734e](https://github.com/user-attachments/assets/baf55086-6ec8-40e9-ae77-45a1c98d8ada)
-
-
 
 
 
